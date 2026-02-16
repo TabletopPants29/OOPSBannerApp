@@ -1,4 +1,4 @@
-    public class OOPSBanner {
+    public class OOPS {
     public static void main(String[] args) {
         // UC2: OOPS ASCII Art Banner using manual string concatenation
         // 7-line grid with asterisks and spaces
